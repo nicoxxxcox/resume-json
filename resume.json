@@ -34,7 +34,7 @@
       "position": "Intégrateur web",
       "website": "https://aerialgroup.fr",
       "startDate": "2020-01-01",
-      "endDate": "present",
+      "endDate": "NOW",
       "summary": "Création et intégrations à la volée des applications web \\n Optimisation de l'infrastructure réseaux interne \\n Développement et optimisation des outils \\n Mise en place de pratiques modernes",
       "highlights": [""]
     },
@@ -80,8 +80,8 @@
       "institution": "Domicile",
       "area": "Web Dev",
       "studyType": "Formation continue",
-      "startDate": "2015-01-01",
-      "endDate": "present",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": [""]
     },
