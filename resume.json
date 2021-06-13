@@ -1,4 +1,5 @@
 {
+  "meta": { "theme": "stackoverflow" },
   "basics": {
     "name": "Nicolas Grissi",
     "label": "Développeur web",
@@ -145,8 +146,8 @@
       "keywords": [""]
     },
     {
-        "name": "Moto",
-        "keywords": [""]
-      }
+      "name": "Moto",
+      "keywords": [""]
+    }
   ]
 }
