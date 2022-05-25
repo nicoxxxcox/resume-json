@@ -31,10 +31,19 @@
   "work": [
     {
       "company": "AerialGroup",
+      "position": "Développeur back-end",
+      "website": "https://aerialgroup.fr",
+      "startDate": "2021-07-01",
+      "endDate": "2022-07-24",
+      "summary": "Développement des fonctionnalités \n Mise en production \n Maintenance",
+      "highlights": [""]
+    },
+    {
+      "company": "AerialGroup",
       "position": "Intégrateur web",
       "website": "https://aerialgroup.fr",
       "startDate": "2020-01-01",
-      "endDate": "2021-06-13",
+      "endDate": "2021-07-01",
       "summary": "Création et intégrations à la volée des applications web \n Optimisation de l'infrastructure réseaux interne \n Développement et optimisation des outils \n Mise en place de pratiques modernes",
       "highlights": [""]
     },
@@ -116,6 +125,9 @@
         "PHP",
         "Git",
         "Bash",
+        "Gulp",
+        "NPM Scripts",
+        "ASP Classic",
         "Linux/Unix",
         "Figma"
       ]
